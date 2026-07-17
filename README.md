@@ -1,4 +1,4 @@
-# 🚬 Healthcare Smoking Risk Analysis Dashboard
+# 🚬 Healthcare Risk Analysis Dashboard
 
 An interactive Power BI dashboard analyzing how smoking habits impact health conditions 
 and identifying high-risk patient groups through data-driven visualizations.
